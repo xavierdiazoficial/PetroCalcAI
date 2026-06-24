@@ -1,0 +1,6 @@
+{
+  "name": "PetroCalc AI",
+  "description": "Asistente inteligente de campo petrolero con IA, cálculos y comandos por voz offline/online.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
